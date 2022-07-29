@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099393992070",
+    "project_id": "cookpad-flutter",
+    "storage_bucket": "cookpad-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099393992070:android:9d14af3e4f424af8955807",
+        "android_client_info": {
+          "package_name": "com.example.cookpad_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099393992070-2j5dc7cibf4vu0t9rn917vvf3gu09e27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rYye_-8AmqNJp44NPzgODdk3zi9OU5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099393992070-2j5dc7cibf4vu0t9rn917vvf3gu09e27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
