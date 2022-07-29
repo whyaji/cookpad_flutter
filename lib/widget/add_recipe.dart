@@ -31,7 +31,7 @@ class _AddRecipeDialogWidgetState extends State<AddRecipeDialogWidget> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
-                'Beli Paket',
+                'Tambahkan Resep',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 22,

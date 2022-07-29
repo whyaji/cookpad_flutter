@@ -32,7 +32,7 @@ class _EditRecipePageState extends State<EditRecipePage> {
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: AppBar(
-          title: Text('Edit Paket'),
+          title: Text('Edit Resep'),
           actions: [
             IconButton(
               icon: Icon(Icons.delete),
